@@ -2,11 +2,11 @@
 
 Este proyecto fue desarrollado como trabajo práctico para las materias **Laboratorio I** (Java) y **Laboratorio II** (Bases de Datos) de la carrera Ingeniería en Sistemas.
 
-## 📝 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Es una aplicación Java con **Interfaz Gráfica (GUI)** que simula las operaciones básicas de un sistema de home banking. La aplicación se ejecuta desde el IDE (ej. IntelliJ) y se conecta a una **base de datos local (SQL)** para gestionar la persistencia de los datos de usuarios, cuentas y movimientos.
 
-## 🚀 Funcionalidades Principales
+##  Funcionalidades Principales
 
 El sistema maneja dos tipos de roles de usuario, cada uno con un menú y permisos diferentes:
 
@@ -20,14 +20,14 @@ El sistema maneja dos tipos de roles de usuario, cada uno con un menú y permiso
 * **Transferencias:** Posibilidad de realizar transferencias (simuladas) entre cuentas.
 * **Historial de Movimientos:** Revisión del historial de transacciones personales.
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * **Lenguaje de Programación:** Java
 * **Conceptos Clave:** Programación Orientada a Objetos (POO)
 * **Base de Datos:** SQL (para la gestión y almacenamiento de datos local)
 * **IDE de Desarrollo:** IntelliJ IDEA
 
-## 👤 Autor
+##  Autor
 
 * **Thiago Garreffa**
     * **LinkedIn:** [https://www.linkedin.com/in/thiago-garreffa-64a384357/](https://www.linkedin.com/in/thiago-garreffa-64a384357/)
